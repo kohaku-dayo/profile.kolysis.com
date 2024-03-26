@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_react=self.webpackChunk_1_react||[]).push([[3797],{3797:(a,t,e)=>{async function c(a){let t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await a.addParticleUpdater("opacity",(async a=>{const{OpacityUpdater:t}=await e.e(771).then(e.bind(e,771));return new t(a)}),t)}e.d(t,{loadOpacityUpdater:()=>c})}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_react=self.webpackChunk_1_react||[]).push([[8098],{8098:(a,e,t)=>{async function n(a){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{StarDrawer:n}=await t.e(7554).then(t.bind(t,7554));await a.addShape("star",new n,e)}t.d(e,{loadStarShape:()=>n})}}]);

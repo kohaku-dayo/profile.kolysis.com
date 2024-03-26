@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_react=self.webpackChunk_1_react||[]).push([[514],{514:(e,a,c)=>{async function t(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{CircleDrawer:t}=await c.e(2685).then(c.bind(c,5066));await e.addShape("circle",new t,a)}c.d(a,{loadCircleShape:()=>t})}}]);

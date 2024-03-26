@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_react=self.webpackChunk_1_react||[]).push([[4478],{4478:(n,e,t)=>{async function a(n){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await n.addInteractor("particlesLinks",(async n=>{const{Linker:e}=await t.e(4650).then(t.bind(t,4650));return new e(n)}),e)}t.d(e,{loadLinksInteraction:()=>a})}}]);

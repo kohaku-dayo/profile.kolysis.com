@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_react=self.webpackChunk_1_react||[]).push([[7694],{6863:(e,a,t)=>{t.d(a,{u:()=>n});const n=["emoji"]},7694:(e,a,t)=>{t.d(a,{loadEmojiShape:()=>c});var n=t(6863);async function c(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{EmojiDrawer:c}=await t.e(2899).then(t.bind(t,5280));await e.addShape(n.u,new c,a)}}}]);
